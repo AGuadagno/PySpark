@@ -1,0 +1,13 @@
+ID;Marca;Modello;Prezzo;Categoria
+1;Gibson;Les Paul;2300;Chitarre
+2;Gibson;SG;1700;Chitarre
+3;Gibson;J-45;1900;Chitarre
+4;Fender;Telecaster;1800;Chitarre
+5;Fender;Stratocaster;1900;Chitarre
+6;Fender;Jazmaster;1500;Chitarre
+7;Ibanez;RG;1000;Chitarre
+8;Ibanez;AZ;1800;Chitarre
+9;Fender;Precision;2500;Bassi
+10;Fender;Jazz;2800;Bassi
+11;MusicMan;StringRay;3000;Bassi
+12;Ibanez;GS;500;Bassi
